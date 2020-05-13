@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/box-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/box-generator/static/js/main.1f2cd526.chunk.js",
+    "main.js.map": "/box-generator/static/js/main.1f2cd526.chunk.js.map",
+    "runtime-main.js": "/box-generator/static/js/runtime-main.0d17cac6.js",
+    "runtime-main.js.map": "/box-generator/static/js/runtime-main.0d17cac6.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/box-generator/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.27dda714.chunk.js": "/box-generator/static/js/2.27dda714.chunk.js",
+    "static/js/2.27dda714.chunk.js.map": "/box-generator/static/js/2.27dda714.chunk.js.map",
+    "index.html": "/box-generator/index.html",
+    "precache-manifest.2c72389399074d15063575a3e99a660d.js": "/box-generator/precache-manifest.2c72389399074d15063575a3e99a660d.js",
+    "service-worker.js": "/box-generator/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/box-generator/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/box-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.27dda714.chunk.js.LICENSE.txt": "/box-generator/static/js/2.27dda714.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d17cac6.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.27dda714.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1f2cd526.chunk.js"
+  ]
+}
